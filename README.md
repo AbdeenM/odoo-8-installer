@@ -1,2 +1,2 @@
-# odoo-8.0-installer
+# Odoo v8.0 Installer
 Odoo OpenERP Ubuntu Installer Script
