@@ -25,7 +25,7 @@ Start the installation process by running: `./odoo-8-installer.sh`
 
 ## Project Status
 
-This script has not be tested with Odoo V8+ so feel free to try it out or contribute!
+This script has not be tested with Odoo version > 8 so feel free to try it out or contribute!
 
 ## Contributing
 
