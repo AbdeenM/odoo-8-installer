@@ -213,7 +213,4 @@ echo "Code location: $OE_USER"
 echo "Addons folder: $OE_USER/$OE_CONFIG/addons/"
 echo "Start Odoo service: sudo service $OE_CONFIG start"
 echo "Stop Odoo service: sudo service $OE_CONFIG stop"
-echo "Restart Odoo service: sudo service $OE_CONFIG restart"
-echo "=================================================================================="
-echo "======= All Rights of Use Reserved to Arab Programmers Co and its Partners ======="
-echo "=================================================================================="
+echo "Restart Odoo service: sudo service $OE_CONFIG restart
