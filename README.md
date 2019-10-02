@@ -32,4 +32,3 @@ Please make sure to update tests as appropriate.
 ## License
 
 Released under the **[MIT License](http://mit-license.org/)**
-Authored and maintained by **[Abdeen Mohamed](https://github.com/AbdeenM)**
