@@ -1,6 +1,6 @@
 # Odoo V8 Installer
 
-[![Status](https://img.shields.io/badge/build-passing-green.svg?branch=master)](https://github.com/AbdeenM/odoo-8.0-installer)
+[![Status](https://travis-ci.org/AbdeenM/odoo-8.0-installer.svg?branch=master)](https://travis-ci.org/AbdeenM/odoo-8.0-installer)
 
 A simple script to install [Odoo V8.0](https://www.odoo.com/) on your Linux server, download the script, run it and enjoy!
 
