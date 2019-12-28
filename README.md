@@ -1,6 +1,6 @@
 # Odoo V8 Installer
 
-[![Status](https://travis-ci.org/AbdeenM/odoo-8.0-installer.svg?branch=master)](https://travis-ci.org/AbdeenM/odoo-8.0-installer)
+[![Status](https://travis-ci.org/AbdeenM/odoo-8-installer.svg?branch=master)](https://travis-ci.org/AbdeenM/odoo-8-installer)
 
 A simple script to install [Odoo V8.0](https://www.odoo.com/) on your Linux server, download the script, run it and enjoy!
 
@@ -15,11 +15,11 @@ A simple script to install [Odoo V8.0](https://www.odoo.com/) on your Linux serv
 
 Moving Forward this assumes you have everything setup, to install the project either download the .zip file and extract or navigate to an empty directory and clone this repo:
 ```bash
-git clone https://github.com/AbdeenM/odoo-8.0-installer.git
+git clone https://github.com/AbdeenM/odoo-8-installer.git
 ```
-cd to the the extracted directory where `odoo-8.0-installer.sh` is located, then make the file executable by running:
+cd to the the extracted directory where `odoo-8-installer.sh` is located, then make the file executable by running:
 ```bash
-chmod +x odoo-8.0-installer.sh
+chmod +x odoo-8-installer.sh
 ```
 Start the installation process by running: `./odoo-8-installer.sh`
 
